@@ -1,0 +1,48 @@
+{"help":{
+    "info" : "Fetch personal information ",
+    "clear" : "Clear screen",
+    "all" : "Print all information",
+    "contact" : "Fetch contact details",
+    "projects" : "Fetch personal information",
+    "technical_strengths" : "Print technical strengths ",
+    "publications" : "Print publications",
+    "theme" : "list color themes",
+    "theme [theme name]" : "set theme to [theme]"
+  },
+  "info":{
+    "name" : "Vaibhav Kumar",
+    "sex" : "Male",
+    "age" : "21"
+  },
+  "theme":{
+    "pink-skin":"",
+    "dark-gold":""
+  },
+  "contact":{
+    "Email" : "kumar.vaibhav1o1@gmail.com",
+    "Phone" : "Nope",
+    "Github" : "<a href=\"https://github.com/TimeTraveller-San\"  target=\"_blank\">https://github.com/TimeTraveller-San</a>",
+    "Medium" : "<a href=\"https://medium.com/@timetraveller1998\"  target=\"_blank\">https://medium.com/@timetraveller1998</a>",
+    "Twitter" : "<a href=\"http://twitter.com/timetravellertt\"  target=\"_blank\">http://twitter.com/timetravellertt</a>",
+    "Kaggle" : "<a href=\"https://www.kaggle.com/timetraveller98\"  target=\"_blank\">https://www.kaggle.com/timetraveller98</a>",
+    "Tumblr": "<a href=\"https://www.tumblr.com/blog/not-timetraveller\"  target=\"_blank\">https://www.tumblr.com/blog/not-timetraveller</a>"
+  },
+  "projects":{
+    "Compilation" : "https://github.com/TimeTraveller-San/Work-Compilation"
+  },
+  "technical_strengths":{
+    "Programming Languages" : "Python, C++, Javascript (basic), bash scripting, prolog",
+    "Machine learning" : "OpenAI, Pytorch, Fast.ai, np-pd-sklearn",
+    "Web" : "Webscraping with BeautifulSoup, Flask and WSGIs",
+    "Web Frontend" : "Bootstrap, jquery (basic), CSS, HTML"
+  },
+  "publications":{
+    "About" : "I no more update it here"
+  },
+  "blogs":{
+    "About" : "Refer the blogs page above" 
+  },
+  "error":{
+    "Error" : "Invalid command. Type help for help"
+  }
+}

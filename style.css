@@ -1,0 +1,54 @@
+body {
+    width:600px;
+    margin-left: 20px;
+ }
+
+em {
+  font-family:monospace;
+}
+
+.highlight {
+  color: #cc331b;
+  font-family:monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #cc331b;
+  font-family:monospace;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.sagan {
+    margin-left: 40px;
+    color: black;
+}  
+
+a:link {
+  color: #cc331b;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #cc331b;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cc331b;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #cc331b;
+  background-color: transparent;
+  text-decoration: underline;
+}
